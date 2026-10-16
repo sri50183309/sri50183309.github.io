@@ -1,4 +1,4 @@
-# Sriram Mahalingam — personal website
+# Sriram Mahalingam — Personal Website
 
 A responsive, accessible static portfolio based on the October 2026 resume. No dependencies, build step, tracking, or backend.
 
